@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/the-petit-factory-speenkoord-met-naam-gepersonaliseerd.webp",
         "image_overlay_opacity": 30,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
