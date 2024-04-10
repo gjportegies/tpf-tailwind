@@ -5,11 +5,10 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-2": {
-          "type": "text",
+        "brand_information_PGDCBt": {
+          "type": "brand_information",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "show_social": true
           }
         },
         "footer-0": {
@@ -28,7 +27,7 @@
         }
       },
       "block_order": [
-        "footer-2",
+        "brand_information_PGDCBt",
         "footer-0",
         "footer-1"
       ],
