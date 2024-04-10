@@ -48,6 +48,46 @@
         "show_text_below": false
       }
     },
+    "collection_list_NQakKh": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_RnFgbt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "speenkoorden"
+          }
+        },
+        "featured_collection_zG6H3N": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bijtringen"
+          }
+        },
+        "featured_collection_CenKkY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "newborn-cadeaus"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_RnFgbt",
+        "featured_collection_zG6H3N",
+        "featured_collection_CenKkY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -221,6 +261,7 @@
   },
   "order": [
     "image_banner",
+    "collection_list_NQakKh",
     "rich_text",
     "featured_collection",
     "collage",
